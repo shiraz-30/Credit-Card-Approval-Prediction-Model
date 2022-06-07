@@ -1,6 +1,6 @@
 # Credit-Card-Approval-Prediction-Model
 
-### This model will assist the credit card sanctioning companies, in order to decide whether to sanction a credit card to a particular customer who has applied for one.
+### This model will assist the credit card sanctioning companies, in order to decide whether to approve a credit card to a particular customer who has applied for one, or reject the application.
 
 ## The factors taken into consideration for deciding the approval of a credit card are:-
 
