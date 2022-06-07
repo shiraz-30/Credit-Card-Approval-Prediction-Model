@@ -78,6 +78,8 @@ ii) 'Bad_Debt' > 'Good_Debt'
 
 ii) 'Bad_Debt' > 'Neutral_Debt'
 
+### Both the 'application_records' and 'credit_records' .csv files were merged into one 'final_dataset' .csv file.
+
 ## 8 SKLearn Models were tested and the results were that:-
 
 ### Support Vector Machine, Logistic Regression and Multi-Layer Perceptron Models gave the joint-most accuracy score. (~ 99.5 %)
