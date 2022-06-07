@@ -80,9 +80,9 @@ ii) 'Bad_Debt' > 'Neutral_Debt'
 
 ## 8 SKLearn Models were tested and the results were that:-
 
-### Support Vector Machine, Logistic Regression and Multi-Layer Perceptron Models gave the joint-most accuracy (~ 99.5 %).
+### Support Vector Machine, Logistic Regression and Multi-Layer Perceptron Models gave the joint-most accuracy score. (~ 99.5 %)
 
-### Decision Tree Model gave the worst accuracy (~ 99.1 %)
+### Decision Tree Model gave the worst accuracy score. (~ 99.1 %)
 
 <img width="403" alt="Screenshot 2022-06-07 at 4 54 17 PM" src="https://user-images.githubusercontent.com/78081835/172368032-aa9c6086-7fff-43e0-92a9-f6b4caa05c44.png">
 
