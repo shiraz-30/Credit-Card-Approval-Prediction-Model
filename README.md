@@ -78,7 +78,7 @@ ii) 'Bad_Debt' > 'Good_Debt'
 
 ii) 'Bad_Debt' > 'Neutral_Debt'
 
-### Both the 'application_records' and 'credit_records' .csv files were merged into one 'final_dataset' .csv file.
+### Both the 'application_recors' and 'credit_record' .csv files were merged into one 'final_dataset' .csv file.
 
 ## 8 SKLearn Models were tested and the results were that:-
 
